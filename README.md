@@ -17,7 +17,11 @@ EKRAN GÖRÜNTÜLERİ ->
 
 Bu, boş bir notlar uygulamasında temel olarak hiçbir not bulunmadığında görüntülenecek ilk ekran olacaktır.
 
-![58445411-c01d-4484-bc99-e0651c0e019e](https://github.com/berfinilik/TheNotesApp/assets/140311905/8b743adc-3517-4135-8141-e4161fc2e49d)Bu, bir not başlığı ve not açıklaması ekleyebileceğiniz AddNoteFragment'tir.![2f0e9613-653b-4505-ae9e-aa2824a97ac1](https://github.com/berfinilik/TheNotesApp/assets/140311905/e0601f62-93ff-4b29-bba8-a70067607d1d)
+![58445411-c01d-4484-bc99-e0651c0e019e](https://github.com/berfinilik/TheNotesApp/assets/140311905/8b743adc-3517-4135-8141-e4161fc2e49d)
+
+Bu, bir not başlığı ve not açıklaması ekleyebileceğiniz AddNoteFragment'tir.
+
+![2f0e9613-653b-4505-ae9e-aa2824a97ac1](https://github.com/berfinilik/TheNotesApp/assets/140311905/e0601f62-93ff-4b29-bba8-a70067607d1d)
 
 
 Burası HomeFragment, burada tüm notlar recyclerviewda görüntülenecek.
