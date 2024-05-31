@@ -1,10 +1,15 @@
 KULLANILAN TEKNOLOJİLER
 
 View Binding
+
 Navigation Component
+
 Room
+
 MVVM
+
 Coroutines
+
 LiveData
 
 
